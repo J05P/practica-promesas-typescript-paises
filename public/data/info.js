@@ -1,6 +1,4 @@
-import { Pais} from "../../src/data/pais"
-
-export const pais:Pais[] =[
+export const pais=[
 
     {
         "id":1,
